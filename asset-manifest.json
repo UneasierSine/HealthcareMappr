@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/UneasierSine/HealthcareMappr/static/css/main.e6c13ad2.css",
+    "main.js": "/UneasierSine/HealthcareMappr/static/js/main.3017dc0e.js",
+    "static/js/787.120d532b.chunk.js": "/UneasierSine/HealthcareMappr/static/js/787.120d532b.chunk.js",
+    "index.html": "/UneasierSine/HealthcareMappr/index.html",
+    "main.e6c13ad2.css.map": "/UneasierSine/HealthcareMappr/static/css/main.e6c13ad2.css.map",
+    "main.3017dc0e.js.map": "/UneasierSine/HealthcareMappr/static/js/main.3017dc0e.js.map",
+    "787.120d532b.chunk.js.map": "/UneasierSine/HealthcareMappr/static/js/787.120d532b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3017dc0e.js"
+  ]
+}
