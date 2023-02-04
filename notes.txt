@@ -1,0 +1,7 @@
+Files for Uploading data to Google Sheets:
+>GoogStuffies
+
+Google Sheets for Data Update:
+https://docs.google.com/spreadsheets/d/1XAHwgONBtVnrheELbyFh6u2yNJgTcbnHl0W6FIrQbRQ/edit?usp=sharing
+
+Call `python3 read.py` to upload data in `GoogStuffies/test/blah.txt` to be uploaded to above Google Sheet

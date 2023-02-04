@@ -1,0 +1,5 @@
+name,day,swag
+alan,tues,10
+aditya,wed,9
+adam,fri,4
+josh,thurs,8
